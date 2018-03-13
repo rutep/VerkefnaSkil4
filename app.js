@@ -20,7 +20,7 @@ app.use(notFoundHandler);
 app.use(errorHandler);
 
 const {
-  PORT: port = 3000,
+  PORT: port = 3011,
   HOST: host = '127.0.0.1',
 } = process.env;
 
