@@ -4,9 +4,13 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
+    "browser-sync": "^2.23.6",
     "cheerio": "^1.0.0-rc.2",
     "dotenv": "^5.0.1",
     "express": "^4.16.2",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^4.0.2",
+    "gulp-nodemon": "^2.2.1",
     "isomorphic-fetch": "^2.2.1",
     "redis": "^2.8.0"
   },
